@@ -1,0 +1,46 @@
+<ul style="display: flex;">
+                <li style="padding-right: 10px;">
+                   <p>
+                    <mat-form-field appearance="fill">
+                      <mat-label>BrideFirstname</mat-label>
+                      <input matInput placeholder="Enter Name">
+                      <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+                      <!-- <mat-hint>Hint</mat-hint> -->
+                    </mat-form-field>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    <mat-form-field appearance="fill">
+                      <mat-label>BrideMiddleName</mat-label>
+                      <input matInput placeholder="Enter Name">
+                      <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+                      <!-- <mat-hint>Hint</mat-hint> -->
+                    </mat-form-field>
+                  </p>
+                </li>
+               </ul>
+               <p style="margin-top: -30px; margin-left: 28px;">
+                <mat-form-field appearance="fill">
+                  <mat-label>BrideLastName</mat-label>
+                  <input matInput placeholder="Enter Name">
+                  <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+                  <!-- <mat-hint>Hint</mat-hint> -->
+                </mat-form-field>
+              </p>
+               <p style="margin-top: -30px; margin-left: 28px;">
+                <mat-form-field appearance="fill">
+                  <mat-label>BrideAge</mat-label>
+                  <input matInput placeholder="Enter Age">
+                  <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+                  <!-- <mat-hint>Hint</mat-hint> -->
+                </mat-form-field>
+              </p>
+               <p style="margin-top: -30px; margin-left: 28px;">
+                <mat-form-field appearance="fill">
+                  <mat-label>BrideAdress</mat-label>
+                  <input matInput placeholder="Enter Adress">
+                  <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+                  <!-- <mat-hint>Hint</mat-hint> -->
+                </mat-form-field>
+              </p>
